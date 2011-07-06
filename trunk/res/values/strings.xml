@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to the Tablet To Delicious!</string>
+    <string name="app_name">Tablet to Delicious</string>
+    <string name="author">By Liam Green-Hughes - <u>http://www.greenhughes.com</u></string>
+    <string name="instructions">To save a web page to Delicious, open the page in a browser then tap <i>Share</i> and tap on <i>Tablet To Delicious</i>. You should then see a save window. When you have finished the browser will return to the original location.</string>
+    <string name="btnDone">Done</string>
+    <string name="which_browser">Which browser would you like to use?</string>
+</resources>
