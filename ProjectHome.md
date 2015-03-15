@@ -1,0 +1,1 @@
+Tablet to Delicious is a simple application that aims to replicate the functionality of the Delicious bookmarklet for Android tablet users. It adds an option to the Share menu to save a link to your Delicious account. When you select it you are taken to the desktop version of the "Save a new bookmark" page with the fields for URL and title pre-populated.
